@@ -8,7 +8,7 @@ Interstellar is a comprehensive CLI application designed for users who need to c
 
 **Version:** 1.0.0  
 **Code Name:** Nebula  
-**Release Date:** April 12, 2026  
+**Release Date:** April 5, 2026  
 **Author:** Bits
 
 ## Key Features
