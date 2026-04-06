@@ -24,7 +24,7 @@ Interstellar is a comprehensive CLI application designed for users who need to c
 Install Interstellar globally via npm:
 
 ```
-npm install -g interstellar
+npm install -g @chuks2001/interstellar-cli
 ```
 
 ## Command Reference
